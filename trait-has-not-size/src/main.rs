@@ -1,3 +1,4 @@
+use std::cell::RefCell;
 
 trait A{
 
@@ -16,14 +17,17 @@ impl A for u16{
 fn func(x: &A) {
 }
 
-fn func_mut(x: &mut A)  {
-//   let z = x as *const i16;
+fn func_mut(x: &RefCell<A>)  {
+
+      *x.borrow_mut() = 1000;
+
 
 
 
 }
 
 fn main() {
-    func(&0u8);
-    func_mut(&mut 0u16);
+    let  num = RefCell::new(100u16);
+
+    func_mut(&num);
 }

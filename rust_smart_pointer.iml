@@ -59,11 +59,16 @@
       <sourceFolder url="file://$MODULE_DIR$/trait-sized/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/trait-sized/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/trait-sized/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/impl_trait_copy_it_func/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/impl_trait_copy_it_func/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/impl_trait_copy_it_func/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/impl_trait_copy_it_func/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/acdemo/target" />
       <excludeFolder url="file://$MODULE_DIR$/arcdemo/target" />
       <excludeFolder url="file://$MODULE_DIR$/boxdemo/target" />
       <excludeFolder url="file://$MODULE_DIR$/celldemo/target" />
       <excludeFolder url="file://$MODULE_DIR$/force-deref-call-property/target" />
+      <excludeFolder url="file://$MODULE_DIR$/impl_trait_copy_it_func/target" />
       <excludeFolder url="file://$MODULE_DIR$/ptr_origin/target" />
       <excludeFolder url="file://$MODULE_DIR$/refcelldemo/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />

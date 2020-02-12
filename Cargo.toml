@@ -12,5 +12,6 @@ members=[
 	"trait-has-not-size",
 	"force-deref-call-property",
 	"ptr_origin",
-	"trait-sized"
+	"trait-sized",
+	"impl_trait_copy_it_func", "closure-demo"
 ]
