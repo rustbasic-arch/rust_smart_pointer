@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/acdemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arcdemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/boxdemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/celldemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/force-deref-call-property" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ptr_origin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/refcelldemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trait-bound-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trait-ext-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trait-has-not-size" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trait-sized" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trait_expand_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trait_freedom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/trait_master_ok" vcs="Git" />
+  </component>
+</project>

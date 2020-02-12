@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUST_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/boxdemo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boxdemo/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/boxdemo/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/boxdemo/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/acdemo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/acdemo/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/acdemo/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/acdemo/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/arcdemo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/arcdemo/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/arcdemo/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/arcdemo/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/celldemo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/celldemo/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/celldemo/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/celldemo/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/refcelldemo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/refcelldemo/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/refcelldemo/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/refcelldemo/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/trait_expand_demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trait_expand_demo/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trait_expand_demo/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/trait_expand_demo/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/trait_freedom/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trait_freedom/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trait_freedom/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/trait_freedom/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-bound-template/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-bound-template/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-bound-template/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-bound-template/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-ext-demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-ext-demo/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-ext-demo/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-ext-demo/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-has-not-size/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-has-not-size/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-has-not-size/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-has-not-size/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/force-deref-call-property/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/force-deref-call-property/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/force-deref-call-property/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/force-deref-call-property/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ptr_origin/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ptr_origin/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ptr_origin/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ptr_origin/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-sized/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-sized/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-sized/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/trait-sized/benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/acdemo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/arcdemo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/boxdemo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/celldemo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/force-deref-call-property/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ptr_origin/target" />
+      <excludeFolder url="file://$MODULE_DIR$/refcelldemo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/trait-bound-template/target" />
+      <excludeFolder url="file://$MODULE_DIR$/trait-ext-demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/trait-has-not-size/target" />
+      <excludeFolder url="file://$MODULE_DIR$/trait-sized/target" />
+      <excludeFolder url="file://$MODULE_DIR$/trait_expand_demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/trait_freedom/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

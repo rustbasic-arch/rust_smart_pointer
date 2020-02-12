@@ -1,0 +1,6 @@
+[package]
+name = "arcdemo"
+version = "0.1.0"
+authors = ["webing <wenweiping920@163.com>"]
+
+[dependencies]

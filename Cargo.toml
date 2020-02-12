@@ -1,0 +1,16 @@
+[workspace]
+members=[
+	"boxdemo",
+	"acdemo",
+	"refcelldemo",
+	"celldemo",
+	"arcdemo",
+	"trait_expand_demo",
+	"trait_freedom",
+	"trait-bound-template",
+	"trait-ext-demo",
+	"trait-has-not-size",
+	"force-deref-call-property",
+	"ptr_origin",
+	"trait-sized"
+]
