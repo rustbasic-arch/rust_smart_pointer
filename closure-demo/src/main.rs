@@ -1,4 +1,6 @@
 
+
+
 trait Foo{
     fn foo(){
         println!("addr of Foo::foo:{:p}",&Self::foo);
@@ -31,6 +33,7 @@ impl<F>Foo for Bar<F> where F:Fn(i32)->i32 {
     fn print_foo_addr(&self){
         Self::foo();
         println!("addr of Foo::print:{:p}",&Self::print_foo_addr);
+        println!("call func value:{}",(self.func)(self.i)); //call func
     }
 }
 
