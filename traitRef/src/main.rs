@@ -44,20 +44,44 @@ fn recvImplType(r:&impl Runnable){
 }
 
 
-fn main() {
+fn recvBoxTrait2(r:&Box<Runnable>){
+    r.run();
+}
 
+fn recvBoxTrait3<T:Runnable>(r:&Box<T>){
+    r.run();
+}
+
+fn main() {
+//第一快 方法
     let h = Human{};
+    recv(&h);
     recv(&h);
 
     recvImplType(&h);
-    recvBoxTrait(Box::new(h));
+
 
 
     let p = Person{};
 
     recv(&p);
+    recv(&p);
     recvImplType(&p);
 
-    recvBoxTrait(Box::new(p));
+    //第二快 方法
 
+    recvBoxTrait(Box::new(p));
+    recvBoxTrait(Box::new(h));
+
+  //方法三
+
+//    let humanBox = Box::new(Human{});//错误 无法将 Box<Human> ===> Box<Trait> 类型
+//    recvBoxTrait2(&humanBox);
+
+
+   //方法四
+
+    let humanBox = Box::new(Human{});//错误 无法将 Box<Human> ===> Box<Trait> 类型
+    recvBoxTrait3(&humanBox);//第一次调用
+    recvBoxTrait3(&humanBox);//第二次调用
 }
