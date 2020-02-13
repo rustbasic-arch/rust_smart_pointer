@@ -13,5 +13,5 @@ members=[
 	"force-deref-call-property",
 	"ptr_origin",
 	"trait-sized",
-	"impl_trait_copy_it_func", "closure-demo","traitRef"
+	"impl_trait_copy_it_func", "closure-demo","traitRef","gameUI","gameGo"
 ]
