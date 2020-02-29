@@ -79,17 +79,47 @@
       <sourceFolder url="file://$MODULE_DIR$/gameGo/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/gameGo/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/gameGo/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/decorate/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/decorate/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/decorate/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/decorate/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/briage/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/briage/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/briage/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/briage/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/state/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/state/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/state/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/state/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/adpater/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/adpater/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/adpater/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/adpater/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton2/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton2/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/singleton2/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/acdemo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/adpater/target" />
       <excludeFolder url="file://$MODULE_DIR$/arcdemo/target" />
       <excludeFolder url="file://$MODULE_DIR$/boxdemo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/briage/target" />
       <excludeFolder url="file://$MODULE_DIR$/celldemo/target" />
       <excludeFolder url="file://$MODULE_DIR$/closure-demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/decorate/target" />
       <excludeFolder url="file://$MODULE_DIR$/force-deref-call-property/target" />
       <excludeFolder url="file://$MODULE_DIR$/gameGo/target" />
       <excludeFolder url="file://$MODULE_DIR$/gameUI/target" />
       <excludeFolder url="file://$MODULE_DIR$/impl_trait_copy_it_func/target" />
       <excludeFolder url="file://$MODULE_DIR$/ptr_origin/target" />
       <excludeFolder url="file://$MODULE_DIR$/refcelldemo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/singleton/target" />
+      <excludeFolder url="file://$MODULE_DIR$/singleton2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/state/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/trait-bound-template/target" />
       <excludeFolder url="file://$MODULE_DIR$/trait-ext-demo/target" />
