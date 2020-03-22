@@ -15,5 +15,11 @@ members=[
 	"trait-sized",
 	"impl_trait_copy_it_func", "closure-demo","traitRef","gameUI","gameGo"
 	,"singleton","decorate","briage","state",
-	"adpater","singleton2"
+	"adpater","singleton2",
+
+	"impl-repeat-trait-method",
+	"node",
+
+	"mypattern_observer",
+	"mypattern_observer2_traitworker"
 ]

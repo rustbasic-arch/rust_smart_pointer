@@ -9,6 +9,7 @@
     <mapping directory="$PROJECT_DIR$/force-deref-call-property" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ptr_origin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/refcelldemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rust-ffi-examples" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/trait-bound-template" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/trait-ext-demo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/trait-has-not-size" vcs="Git" />

@@ -103,6 +103,26 @@
       <sourceFolder url="file://$MODULE_DIR$/singleton2/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/singleton2/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/singleton2/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-call-c/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-call-c/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-call-c/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-call-c/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/impl-repeat-trait-method/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/impl-repeat-trait-method/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/impl-repeat-trait-method/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/impl-repeat-trait-method/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/node/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/node/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/node/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/node/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/mypattern_observer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mypattern_observer/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mypattern_observer/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/mypattern_observer/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/mypattern_observer2_traitworker/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mypattern_observer2_traitworker/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mypattern_observer2_traitworker/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/mypattern_observer2_traitworker/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/acdemo/target" />
       <excludeFolder url="file://$MODULE_DIR$/adpater/target" />
       <excludeFolder url="file://$MODULE_DIR$/arcdemo/target" />
@@ -114,9 +134,14 @@
       <excludeFolder url="file://$MODULE_DIR$/force-deref-call-property/target" />
       <excludeFolder url="file://$MODULE_DIR$/gameGo/target" />
       <excludeFolder url="file://$MODULE_DIR$/gameUI/target" />
+      <excludeFolder url="file://$MODULE_DIR$/impl-repeat-trait-method/target" />
       <excludeFolder url="file://$MODULE_DIR$/impl_trait_copy_it_func/target" />
+      <excludeFolder url="file://$MODULE_DIR$/mypattern_observer/target" />
+      <excludeFolder url="file://$MODULE_DIR$/mypattern_observer2_traitworker/target" />
+      <excludeFolder url="file://$MODULE_DIR$/node/target" />
       <excludeFolder url="file://$MODULE_DIR$/ptr_origin/target" />
       <excludeFolder url="file://$MODULE_DIR$/refcelldemo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-call-c/target" />
       <excludeFolder url="file://$MODULE_DIR$/singleton/target" />
       <excludeFolder url="file://$MODULE_DIR$/singleton2/target" />
       <excludeFolder url="file://$MODULE_DIR$/state/target" />
