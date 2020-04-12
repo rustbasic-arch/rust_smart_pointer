@@ -22,4 +22,8 @@ members=[
 
 	"mypattern_observer",
 	"mypattern_observer2_traitworker"
+	,
+	"multi-thread","box_self","network-server","tcp_listener","channel-muliti","self_demo"
+	,"crate-test--test","threadpool","ext-lib","webserver"
+
 ]

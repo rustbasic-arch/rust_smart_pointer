@@ -47,12 +47,8 @@ impl<'a> Context<'a>{
 
 
 fn main() {
-
     let mut c = Context{base:& AImpl{} };
     c.load();
     c.setImpl(&BImpl{});
     c.load();
-
-
-
 }

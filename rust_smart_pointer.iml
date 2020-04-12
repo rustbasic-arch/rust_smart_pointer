@@ -123,29 +123,78 @@
       <sourceFolder url="file://$MODULE_DIR$/mypattern_observer2_traitworker/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/mypattern_observer2_traitworker/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/mypattern_observer2_traitworker/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/multi-thread/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/multi-thread/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/multi-thread/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/multi-thread/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/box_self/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/box_self/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/box_self/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/box_self/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/network-server/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/network-server/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/network-server/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/network-server/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tcp_listener/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tcp_listener/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tcp_listener/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tcp_listener/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/channel-muliti/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/channel-muliti/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/channel-muliti/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/channel-muliti/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/self_demo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/self_demo/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/self_demo/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/self_demo/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crate-test--test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crate-test--test/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crate-test--test/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crate-test--test/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/threadpool/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/threadpool/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/threadpool/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/threadpool/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ext-lib/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ext-lib/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ext-lib/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ext-lib/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/webserver/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webserver/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webserver/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/webserver/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/acdemo/target" />
       <excludeFolder url="file://$MODULE_DIR$/adpater/target" />
       <excludeFolder url="file://$MODULE_DIR$/arcdemo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/box_self/target" />
       <excludeFolder url="file://$MODULE_DIR$/boxdemo/target" />
       <excludeFolder url="file://$MODULE_DIR$/briage/target" />
       <excludeFolder url="file://$MODULE_DIR$/celldemo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/channel-muliti/target" />
       <excludeFolder url="file://$MODULE_DIR$/closure-demo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/crate-test--test/target" />
       <excludeFolder url="file://$MODULE_DIR$/decorate/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ext-lib/target" />
       <excludeFolder url="file://$MODULE_DIR$/force-deref-call-property/target" />
       <excludeFolder url="file://$MODULE_DIR$/gameGo/target" />
       <excludeFolder url="file://$MODULE_DIR$/gameUI/target" />
       <excludeFolder url="file://$MODULE_DIR$/impl-repeat-trait-method/target" />
       <excludeFolder url="file://$MODULE_DIR$/impl_trait_copy_it_func/target" />
+      <excludeFolder url="file://$MODULE_DIR$/multi-thread/target" />
       <excludeFolder url="file://$MODULE_DIR$/mypattern_observer/target" />
       <excludeFolder url="file://$MODULE_DIR$/mypattern_observer2_traitworker/target" />
+      <excludeFolder url="file://$MODULE_DIR$/network-server/target" />
       <excludeFolder url="file://$MODULE_DIR$/node/target" />
       <excludeFolder url="file://$MODULE_DIR$/ptr_origin/target" />
       <excludeFolder url="file://$MODULE_DIR$/refcelldemo/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust-call-c/target" />
+      <excludeFolder url="file://$MODULE_DIR$/self_demo/target" />
       <excludeFolder url="file://$MODULE_DIR$/singleton/target" />
       <excludeFolder url="file://$MODULE_DIR$/singleton2/target" />
       <excludeFolder url="file://$MODULE_DIR$/state/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/tcp_listener/target" />
+      <excludeFolder url="file://$MODULE_DIR$/threadpool/target" />
       <excludeFolder url="file://$MODULE_DIR$/trait-bound-template/target" />
       <excludeFolder url="file://$MODULE_DIR$/trait-ext-demo/target" />
       <excludeFolder url="file://$MODULE_DIR$/trait-has-not-size/target" />
@@ -153,6 +202,7 @@
       <excludeFolder url="file://$MODULE_DIR$/traitRef/target" />
       <excludeFolder url="file://$MODULE_DIR$/trait_expand_demo/target" />
       <excludeFolder url="file://$MODULE_DIR$/trait_freedom/target" />
+      <excludeFolder url="file://$MODULE_DIR$/webserver/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
