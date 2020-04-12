@@ -163,6 +163,10 @@
       <sourceFolder url="file://$MODULE_DIR$/webserver/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/webserver/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/webserver/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/webserver-multi-thread/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webserver-multi-thread/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/webserver-multi-thread/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/webserver-multi-thread/benches" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/acdemo/target" />
       <excludeFolder url="file://$MODULE_DIR$/adpater/target" />
       <excludeFolder url="file://$MODULE_DIR$/arcdemo/target" />
@@ -202,6 +206,7 @@
       <excludeFolder url="file://$MODULE_DIR$/traitRef/target" />
       <excludeFolder url="file://$MODULE_DIR$/trait_expand_demo/target" />
       <excludeFolder url="file://$MODULE_DIR$/trait_freedom/target" />
+      <excludeFolder url="file://$MODULE_DIR$/webserver-multi-thread/target" />
       <excludeFolder url="file://$MODULE_DIR$/webserver/target" />
     </content>
     <orderEntry type="inheritedJdk" />
